@@ -1,0 +1,19 @@
+{
+  "name": "lqip-pug",
+  "version": "1.0.0",
+  "description": "lqip for pug based static projects",
+  "main": "lib",
+  "repository": "git@github.com:mike3run/lqip-pug.git",
+  "author": "Miguel Palau <mpalauzarza@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "standard"
+  },
+  "dependencies": {
+    "deasync": "^0.1.10",
+    "sharp": "^0.18.4"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
