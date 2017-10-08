@@ -7,7 +7,9 @@
   "author": "Miguel Palau <mpalauzarza@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "standard"
+    "lint": "standard",
+    "pretest": "npm run lint",
+    "test": "node test"
   },
   "dependencies": {
     "deasync": "^0.1.10",
