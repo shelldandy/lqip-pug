@@ -1,6 +1,6 @@
 {
   "name": "lqip-pug",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "lqip for pug based static projects",
   "main": "index.js",
   "repository": "git@github.com:mike3run/lqip-pug.git",
