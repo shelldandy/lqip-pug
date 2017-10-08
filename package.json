@@ -9,7 +9,8 @@
   "scripts": {
     "lint": "standard",
     "pretest": "npm run lint",
-    "test": "node test"
+    "test": "node test",
+    "postversion": "git push; git push --tags; npm publish"
   },
   "dependencies": {
     "deasync": "^0.1.10",
