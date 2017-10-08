@@ -1,6 +1,7 @@
 # lqip-pug
 
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+[![npm version](https://badge.fury.io/js/lqip-pug.svg)](https://badge.fury.io/js/lqip-pug)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 My take on lqip for pug static builds
 
