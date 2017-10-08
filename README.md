@@ -1,4 +1,7 @@
 # lqip-pug
+
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+
 My take on lqip for pug static builds
 
 The basic idea implies combining this with something like [lazysizes](https://github.com/aFarkas/lazysizes) to have everything lazy loaded while giving something to see to the user while that loads.
