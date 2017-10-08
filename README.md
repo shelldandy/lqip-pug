@@ -3,11 +3,13 @@
 [![npm version](https://badge.fury.io/js/lqip-pug.svg)](https://badge.fury.io/js/lqip-pug)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-My take on lqip for pug static builds
+My take on low quality image placehoder for pug static builds
 
 The basic idea implies combining this with something like [lazysizes](https://github.com/aFarkas/lazysizes) to have everything lazy loaded while giving something to see to the user while that loads.
 
 [Live Demo](https://mike3run.github.io/lazy-example/)
+
+![Example](example.gif)
 
 ## Setup
 The main idea is to abstract everything in a mixin for ease of use.
