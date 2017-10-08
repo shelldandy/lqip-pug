@@ -7,6 +7,8 @@ My take on lqip for pug static builds
 
 The basic idea implies combining this with something like [lazysizes](https://github.com/aFarkas/lazysizes) to have everything lazy loaded while giving something to see to the user while that loads.
 
+[Live Demo](https://mike3run.github.io/lazy-example/)
+
 ## Setup
 The main idea is to abstract everything in a mixin for ease of use.
 Here are shown the defaults the component has:
